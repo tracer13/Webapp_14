@@ -1,0 +1,8 @@
+body { text-align: center; }
+table { text-align: center; }
+#errmsg { color: red;}
+#successStat { color: green; font-weight: bold}
+#failStat { color: red; font-weight: bold}
+#firstName { background-color: white}
+#lastName { background-color: white}
+#age { background-color: white}
